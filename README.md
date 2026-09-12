@@ -62,18 +62,7 @@
 
 > Replace the `#` links above with the actual repo URLs once you know which repos you want to spotlight.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=myassa01&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myassa01&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myassa01&hide_border=true" />
-</p>
 
 ---
 
