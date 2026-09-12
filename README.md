@@ -60,8 +60,6 @@
 - **[AI SQL Assistant](#)** — RAG pipeline built from scratch (no framework) over a PostgreSQL schema indexed with pgvector, with defense-in-depth query validation (sqlglot, SELECT-only + read-only DB role).
 - **[4 Full-Stack Web Applications](#)** — Self-taught, end-to-end builds: e-commerce platform, social network, Trello-style project management tool, and a real-time communication app (video calls, screen sharing, collaborative whiteboard).
 
-> Replace the `#` links above with the actual repo URLs once you know which repos you want to spotlight.
-
 
 
 ---
