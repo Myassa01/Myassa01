@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Myassa Maallem 👋</h1>
+<h1 align="center">Hi, I'm Myassa Maallem </h1>
 <h3 align="center">Full-Stack Developer & AI Engineer | RAG · LLM · Agents</h3>
 
 <p align="center">
