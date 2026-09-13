@@ -18,7 +18,6 @@
 - 🧠 Final-year project: fully locally-deployed **RAG chatbot** for internal knowledge management (ENGTP / Sonatrach)
 - 🛠️ Experience turning business requirements into IT solutions for ENGTP and Banque Nationale de l'Habitat
 - 🌱 Currently deepening my work with AI agents, LangGraph orchestration, and hybrid retrieval systems
-- 🌍 Fluent in French and English
 
 ---
 
