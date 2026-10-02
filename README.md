@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/myassa-maallem-67a93b25b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:myassamllm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+ <a href="https://portfolio-myassa-maallem.netlify.app/"><img src="https://img.shields.io/badge/portfolio-D14836?style=for-the-badge&logo=portfolio&logoColor=white" /></a>
 ---
 
 ### 🚀 About me
